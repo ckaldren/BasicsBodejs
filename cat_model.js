@@ -9,3 +9,4 @@ var catSchema = mongoose.Schema({
 });
 
 module.exports = mongoose.model('Cat', catSchema);
+
